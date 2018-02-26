@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="/Users/anhuynh/Desktop/java-websocket-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/anhuynh/Desktop/School_Related/Network_Programming/FINAL_PROJECT/java-websocket-1.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
